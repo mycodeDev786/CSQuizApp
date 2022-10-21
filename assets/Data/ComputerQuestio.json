@@ -1,0 +1,34 @@
+[
+  {
+    "Question": " Who is the father of Computers?",
+    "option1": " James Gosling",
+    "option2": "Charles Babbage",
+    "option3": " Dennis Ritchie",
+    "option4": "Bjarne Stroustrup",
+    "answer": "Charles Babbage"
+  },
+  {
+    "Question": "where is menar pakisatn located ",
+    "option1": "Lahore",
+    "option2": "Mulatn",
+    "option3": "karachi",
+    "option4": "Quetta",
+    "answer": "Lahore"
+  },
+  {
+    "Question": "which city is called city of lights ",
+    "option1": "Lahore",
+    "option2": "Mulatn",
+    "option3": "karachi",
+    "option4": "Quetta",
+    "answer": "karachi"
+  },
+  {
+    "Question": "Who is no T20 batsman ",
+    "option1": "Rizwan",
+    "option2": "Babar",
+    "option3": "Shaheen",
+    "option4": "Naseem",
+    "answer": "Rizwan"
+  }
+]
